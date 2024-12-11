@@ -1,4 +1,4 @@
-# SendETH DApp
+# ETHWALL DApp
 
 This is a simple Ethereum Decentralized Application (DApp) that allows users to connect their Ethereum wallet (MetaMask), view their account balance, and send ETH.
 
